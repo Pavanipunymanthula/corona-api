@@ -1,6 +1,6 @@
 **pavani** is a weather client for the terminal.
 
-![Screenshots](http://schachmat.github.io/wego/wego.gif)
+![Screenshots](http://schachmat.github.io/pavani/pavani.gif)
 
 ## Features
 
@@ -29,7 +29,7 @@
 
 Check your distribution for packaging:
 
-[![Packaging status](https://repology.org/badge/vertical-allrepos/wego.svg)](https://repology.org/project/wego/versions)
+[![Packaging status](https://repology.org/badge/vertical-allrepos/pavani.svg)](https://repology.org/project/pavani/versions)
 
 To directly install or update the wego binary from Github into your `$GOPATH` as usual, run:
 ```shell
@@ -50,7 +50,7 @@ go install github.com/schachmat/wego@latest
       owm-api-key=YOUR_OPENWEATHERMAP_API_KEY_HERE
     ```
 0. __With a [Worldweatheronline](http://www.worldweatheronline.com/) account__
-    * Worldweatheronline no longer gives out free API keys. [#83](https://github.com/schachmat/wego/issues/83)
+    * Worldweatheronline no longer gives out free API keys. [#83](https://github.com/schachmat/pavani/issues/83)
     * Update the following `.wegorc` config variables to fit your needs:
     ```
       backend=worldweatheronline
@@ -70,9 +70,9 @@ file location.
 
 ## Todo
 
-* more [backends and frontends](https://github.com/schachmat/wego/wiki/How-to-write-a-new-backend-or-frontend)
-* resolve ALL the [issues](https://github.com/schachmat/wego/issues)
-* don't forget the [TODOs in the code](https://github.com/schachmat/wego/search?q=TODO&type=Code)
+* more [backends and frontends](https://github.com/schachmat/pavani/wiki/How-to-write-a-new-backend-or-frontend)
+* resolve ALL the [issues](https://github.com/schachmat/pavani/issues)
+* don't forget the [TODOs in the code](https://github.com/schachmat/pavani/search?q=TODO&type=Code)
 
 ## License - ISC
 
