@@ -1,4 +1,4 @@
-**wego** is a weather client for the terminal.
+**pavani** is a weather client for the terminal.
 
 ![Screenshots](http://schachmat.github.io/wego/wego.gif)
 
