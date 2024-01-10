@@ -33,7 +33,7 @@ Check your distribution for packaging:
 
 To directly install or update the wego binary from Github into your `$GOPATH` as usual, run:
 ```shell
-go install github.com/schachmat/wego@latest
+go install github.com/schachmat/pavani@latest
 ```
 
 ## Setup
